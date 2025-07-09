@@ -32,12 +32,12 @@ This project demonstrates how to interface the **TCS34725 RGB color sensor** wit
 
 ## ⚙️ Features
 
-✅ I2C communication between PSoC and sensor
-✅ Real-time RGB reading and display
-✅ USB UART interface to send data to PC
-✅ MATLAB live plots of RGB channels
-✅ Visual color block updating dynamically in MATLAB
-✅ Clear and modular code in C (PSoC Creator) and MATLAB script
+*✅ I2C communication between PSoC and sensor
+*✅ Real-time RGB reading and display
+*✅ USB UART interface to send data to PC
+*✅ MATLAB live plots of RGB channels
+*✅ Visual color block updating dynamically in MATLAB
+*✅ Clear and modular code in C (PSoC Creator) and MATLAB script
 
 ---
 
