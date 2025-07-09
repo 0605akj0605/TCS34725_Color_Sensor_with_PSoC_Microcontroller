@@ -69,9 +69,9 @@ This project demonstrates how to interface the **TCS34725 RGB color sensor** wit
 
 ## 🖥 MATLAB GUI Preview
 
-<!-->%<img src="https://via.placeholder.com/800x400.png?text=MATLAB+GUI+Live+Plots+and+Color+Block" alt="MATLAB GUI preview"
+<!-->%<img src="https://via.placeholder.com/800x400.png?text=MATLAB+GUI+Live+Plots+and+Color+Block" alt="MATLAB GUI preview" --
 
-<!--> Live plots show real-time RGB intensity values; the color block updates dynamically.
+<!--> Live plots show real-time RGB intensity values; the color block updates dynamically. -->
 <!--  -->
 >                             
 
